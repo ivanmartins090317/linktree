@@ -9,4 +9,7 @@ GITHUB
 https://github.com/ivanmartins090317
 
 CODEPEN.IO
-]https://codepen.io/ivanmartins090317/pen/dyQYYeB
+https://codepen.io/ivanmartins090317/pen/dyQYYeB
+
+GITPAGES
+https://ivanmartins090317.github.io/linktree/
